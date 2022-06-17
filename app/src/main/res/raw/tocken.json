@@ -1,4 +1,21 @@
 {
-  "global": {},
+  "global": {
+    "yellow": {
+      "value": "#e9ac2a",
+      "type": "color"
+    },
+    "red": {
+      "value": "#f12f2f",
+      "type": "color"
+    },
+    "windowSize": {
+      "value": "400",
+      "type": "sizing"
+    },
+    "window_height": {
+      "value": "640",
+      "type": "sizing"
+    }
+  },
   "$themes": []
 }
