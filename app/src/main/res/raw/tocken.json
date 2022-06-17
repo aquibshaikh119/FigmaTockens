@@ -15,6 +15,10 @@
     "window_height": {
       "value": "640",
       "type": "sizing"
+    },
+    "icon": {
+      "value": "https://www.rawshorts.com/freeicons/wp-content/uploads/2017/01/blue_repicthousebase_1484336386-1.png",
+      "type": "other"
     }
   },
   "$themes": []
